@@ -1,3 +1,3 @@
 # simulasi konflik
 
-Konflik 1
+konflik 2
