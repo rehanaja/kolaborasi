@@ -1,0 +1,1 @@
+Dan gimana lu kabarnya ?
