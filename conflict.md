@@ -10,4 +10,3 @@ baris ketiga.
 
 ini
 kokkokokoko
-
